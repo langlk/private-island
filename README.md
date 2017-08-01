@@ -4,6 +4,8 @@
 
 #### By _**Evelyn Fenner-Dorrity and Kelsey Langlois**_
 
+[View Site on GitHub Pages](https://langlk.github.io/private-island/)
+
 ## Description
 
 _This is a website for a fake yoga retreat in Bali, there are various pages which include details on the logistics of visiting this retreat._
