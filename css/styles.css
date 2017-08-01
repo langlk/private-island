@@ -20,3 +20,10 @@ h3 {
 p {
   font-size: 20px;
 }
+
+ul {
+  text-align: left;
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
